@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cancel_button2" type="id" />
+    <item name="other_size_button2" type="id" />
+    <item name="water_glass_button2" type="id" />
+    <item name="water_bottle_button2" type="id" />
+</resources>

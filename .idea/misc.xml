@@ -9,6 +9,7 @@
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/btnshape.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/circle.xml" value="0.2415" />
+        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/drink_icon_backgorund.xml" value="0.15" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/home_icon.xml" value="0.251" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/ic_add.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.12" />
@@ -24,15 +25,17 @@
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/progress_bar_circle.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/splash.xml" value="0.2415" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/trash_can.xml" value="0.1" />
+        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/drawable/water_glass_big.xml" value="0.15" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_already_user.xml" value="0.25" />
-        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_calory.xml" value="0.2" />
+        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_calory.xml" value="0.176" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_dash_board.xml" value="0.264" />
+        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_food.xml" value="0.25" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_second_dash.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_splash_screaan.xml" value="0.25" />
-        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_water.xml" value="0.2" />
+        <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_water.xml" value="0.1" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_weight_tracker.xml" value="0.2" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/activity_weight_tracker1.xml" value="0.264" />
         <entry key="..\:/Users/Fiza shareef/AndroidStudioProjects/nutriwise/app/src/main/res/layout/calory.xml" value="0.1" />
